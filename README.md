@@ -12,3 +12,32 @@ This repository contains the official registration and payment landing page for 
 - **Location:** Newark, NJ
 - **Registration Fee:** $10
 
+AQUAPHIT WATERBAR & GYM PRESENTS
+Nourish
+Newark 5K
+Run. Refuel. Reconnect.
+STEP 1
+Registration Form
+FIRST NAME
+
+LAST NAME
+
+EMAIL ADDRESS
+
+PHONE NUMBER
+
+EMERGENCY CONTACT NAME
+
+EMERGENCY CONTACT PHONE
+
+Submit Registration
+STEP 2
+Payment ($10)
+Scan a code below. Include your full name in the note.
+
+Zelle QR
+Zelle
+Blueberryvegancafe@gmail.com
+PayPal QR
+PayPal
+Blueberryvegancafe@gmail.com
